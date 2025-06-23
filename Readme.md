@@ -17,10 +17,11 @@ UrChatBot is a business-ready AI chatbot platform that leverages RAG (Retrieval-
 
 ## Screenshots
 
+![Setup Wizard](./public/2.png)
+
 ### Setup Wizard
 
 ![Setup Wizard](./public/1.png)
-![Setup Wizard](./public/2.png)
 
 ### Chatbot Demo
 
